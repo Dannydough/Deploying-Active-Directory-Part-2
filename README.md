@@ -71,3 +71,9 @@ Enter Domain Users in the object name field and click Check Names to verify. Aft
 <img src="https://imgur.com/foCyKJd.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
+
+You can now log in to Client-1 as a standard, non-administrative user.
+
+For a more scalable approach, this configuration is typically managed using Group Policy, which allows you to apply these settings across multiple systems simultaneously. 
+
+
