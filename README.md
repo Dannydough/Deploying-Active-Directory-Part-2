@@ -129,3 +129,10 @@ If the login fails, ensure that:
 The account is correctly created and not disabled.
 The "Domain Users" group has been added to the Remote Desktop Users on Client-1.
 The password entered matches the one defined in the script.
+
+<h2> Deployment in AD Part 2 Completed  </h2>
+
+*The foundational Active Directory infrastructure is now fully set up in Azure. The Domain Controller (DC-1) and Client-1 are successfully connected within the same virtual network, with the client configured to use the Domain Controller's private IP for DNS resolution. Network connectivity between the two machines has been verified through successful ping tests, and the environment is now ready for advanced configurations.*
+
+</p>
+<br />
